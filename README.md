@@ -1,6 +1,6 @@
 ## Description: 
 
-LIRI means *Language Interpretation and Recognition Interface*
+:robot_face:LIRI means *Language Interpretation and Recognition Interface*:robot_face:
 
 LIRI currently sends requests to the Twitter, Spotify and OMDB APIs
 
