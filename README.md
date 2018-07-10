@@ -1,6 +1,6 @@
 ## Description: 
 
-:robot_face: LIRI means *Language Interpretation and Recognition Interface* :robot_face:
+LIRI means *Language Interpretation and Recognition Interface*
 
 LIRI currently sends requests to the Twitter, Spotify and OMDB APIs
 
@@ -19,3 +19,5 @@ LIRI currently sends requests to the Twitter, Spotify and OMDB APIs
 4. To see the last 20 tweets on Twitter: 
 
 `node liri.js my-tweets`
+
+:robot_face:
