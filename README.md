@@ -20,4 +20,3 @@ LIRI currently sends requests to the Twitter, Spotify and OMDB APIs
 
 `node liri.js my-tweets`
 
-:robot_face:
